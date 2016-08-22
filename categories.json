@@ -1,0 +1,18 @@
+[{
+"id":81,
+"short_name":"P",
+"name":"Pasta",
+"special_instructions":"Served with your chosen kind of pasta. Available pastas is dependent on stock.",
+"url":"https://davids-restaurant.herokuapp.com/categories/81.json"},
+{
+"id":82,
+"short_name":"B",
+"name":"Beef",
+"special_instructions":"Beef based cuisine.",
+"url":"https://davids-restaurant.herokuapp.com/categories/82.json"},
+{
+"id":83,
+"short_name":"C",
+"name":"Chicken",
+"special_instructions":"Chicken based cuisine.",
+"url":"https://davids-restaurant.herokuapp.com/categories/83.json"}] 
